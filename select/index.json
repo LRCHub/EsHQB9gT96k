@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Supernova",
   "base_artist": "aespa",
-  "createdAt": "2026-02-15T19:51:46.840067Z",
+  "createdAt": "2026-03-25T15:39:42.485121Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -147,6 +147,15 @@
       "artist": "aespa",
       "has_synced": false,
       "path": "select/pl_01_Supernova_aespa.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Supernova",
+      "artist": "aespa",
+      "has_synced": false,
+      "path": "select/localdb_01_Supernova_aespa.txt",
+      "repo_name": "EsHQB9gT96k"
     }
   ]
 }
